@@ -1,5 +1,8 @@
 # growth-mindset
+I am Naqa Momani , civil engineer , I have 3 years experience in structural design
+[GitHub account](https://github.com/NAQA-m)
 # growth mindset definition
+ 
 * ##  What is a *growth mindset?*
 It Is a popular topic and very important to understand It. First of all ,It believes that anyone can develop his abilities during perseverance and effort and It related to  a love of learning. Certainly any one  faces `Challenges` , `Obstacles` and `Criticisms` so the growth mindset help us to solve all these problem by  embraces the challenges, persists to achieve goals and learn from Criticisms. :muscle:
 
