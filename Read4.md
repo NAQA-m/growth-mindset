@@ -1,4 +1,7 @@
-What is the script?
+# **Reading** 4
+
+## What is the script? 
+
 A script is a series of instructions that a computer can follow to
  achieve a goal , before writing a script code we must we nust define the goal and design the script, like draw a quick sketch of the script
 

@@ -1,3 +1,7 @@
+  # **Reading** 3
+  
+  ## chapter 17
+
   In chapter 17 explaines a different layouts  by html5 : 
 header
 footer
@@ -6,6 +10,8 @@ aside
 section 
 hgroup
 figure
+
+## chapter 18
 
 In chapter 18 explaines the wireframe and design of website
 our content and design shouldbe influenced by the goals ofyour users.

@@ -1,8 +1,12 @@
+# **Reading** 5
+## comparison operator
+
 Pages 150 and 151 explain the evaluation of situation by comparing one value what you expect might be, there is a lot of type for comparisons: 
 
 1-compare two value if they are same or aren't,  using (==  ,  !=)
 2-compare two value if they are same or aren't and if they have same data type or haven't,  using (===  ,  !==)
-3-  < , > ,  =< ,  >=  to compare the numbers 
+3-  < , > ,  =< ,  >=  to compare the numbers
+## logical operator
 
 Pages 156 and 157 explain logical operatrors , allow  you to compair one or more results of comparing one value what you expect might be
 
