@@ -13,4 +13,5 @@ I am Naqa Momani , civil engineer , I have 3 years experience in structural desi
 | Read 3      | [class3](Read3.md)  |
 | Read 4      | [class4](Read4.md)  |
 | Read 5      | [class5](Read5.md)  |
+| Read 6      | [class6](Read6.md)  |
 

@@ -12,7 +12,7 @@ Pages 156 and 157 explain logical operatrors , allow  you to compair one or more
 
 && : This Is mean AND
 
-|| : This Is mean  OR
+||: This Is mean  OR
 
 ! : This Is mean NOT
 
