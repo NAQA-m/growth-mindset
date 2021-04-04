@@ -27,9 +27,9 @@ my computer operating system version is : windows 10
 
 |assignment   |    link                   |
 | ----------- | -----------               |
-| Read 1      | [class1](level2Read1.md)  |
-| Read 2      | [class2](level2Read2.md)  |
-| Read 3      | [class3](level2Read3.md)  |
-| Read 4      | [class4](level2Read4.md)  |
-| Read 5      | [class5](level2Read5.md)  |
-| Read 6      | [class6](level2Read6.md)  |
+| Read 1      | [class01](level2Read1.md)  |
+| Read 2      | [class02](level2Read2.md)  |
+| Read 3      | [class03](level2Read3.md)  |
+| Read 4      | [class04](level2Read4.md)  |
+| Read 5      | [class05](level2Read5.md)  |
+| Read 6      | [class06](level2Read6.md)  |
